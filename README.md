@@ -1,2 +1,2 @@
 # Calculator
-A Simple calculator
+A Simple calculator is a basic application
